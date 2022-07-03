@@ -1,0 +1,27 @@
+.body{
+    background-image: url('https://www.camaracivica.com/wp-content/uploads/2017/09/maxresdefault.jpg');
+}
+.img{
+    width: 400px;
+}
+#thirdDiv{
+    height: 1000;
+    width: 1500;
+    background-color: yellow;
+    padding: 50px;
+    border: 30px;
+    border-color: blue;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+    
+}
+li{
+    list-style: none;
+}
+
